@@ -1,4 +1,4 @@
-# IRF520N Mosfet ile PCB Tasarımı
+# FIRÇALI MOTOR SÜRÜCÜ PCB Tasarımı
 
 Bu proje, IRF520N NPN Mosfet transistörü kullanarak bir PCB tasarımını içerir. PCB, 3.3V veya 5V tetikleme sinyali ile çalışan, 0-24V DC çıkış gerilimi sağlayan ve 5A'ye kadar akım çekebilen bir güç anahtarlama devresi oluşturur.
 
